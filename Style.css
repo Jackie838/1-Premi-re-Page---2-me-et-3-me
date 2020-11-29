@@ -8,19 +8,28 @@
     font-style: normal;
 
 }
-#h2 { color: green;
-	font-family: 'ralewaythin';
- }
+#h2 { color: green; }
+
+li {
+	font-weight: bold;
+}
+	
+
+.intro { font-weight: bold; }
 
 #menu {
 	width: 100%;
 	height: 100px;
 	position: relative;
-	background:-webkit-linear-gradient(black, white, black);
+	background:-webkit-linear-gradient(0deg, rgb(32, 193, 214) 30%, rgb(26, 52, 168), rgb(143, 34, 185 ));
 }
 
 #para1 {
 	font-family: fantasy;
+}
+
+body {
+	margin: 0;
 }
 
 #menu ul {
@@ -43,7 +52,7 @@
 	text-align: center;
 	padding-top: 10px;
 	display: inline-block;
-	background:-webkit-linear-gradient(black, white, black);
+	background:(black);
 	height: 30px;
 	width: 100px;
 	color: black;
@@ -52,24 +61,24 @@
 
 #menu ul li a:hover{
 	color: white;
-	background-color: #C1BCB3;
+	background-color: #d4d4d4;
 
 }
 
 
-#DrapFR a img{
+#DrapFR {
 
 	 height: 60px;
      width: 60px;
      padding: 1px 1px;
      position: absolute;
-     bottom: 855px;
+     bottom: 815px;
      right: 65px;
 
 }
 
 
-#DrapES a img{
+#DrapES{
 
 	height: 50px;
      width: 50px;
@@ -80,7 +89,14 @@
 
 }
 
-
+#DrapEN {
+	height: 50px;
+     width: 50px;
+     padding: 1px 1px;
+     position: absolute;
+     top: 10px;
+     right: 140px;
+}
 
 
 

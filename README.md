@@ -2,7 +2,7 @@
 
 ## à faire
 
-- Chrome Dev console
+- Chrome Dev console F12
 - ![HTML/CSS](https://www.htmldog.com/)
 - ![QuerySelector](https://flukeout.github.io/)
  -![Git](https://learngitbranching.js.org/?locale=fr_FR)
