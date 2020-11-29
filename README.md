@@ -8,9 +8,20 @@
  -![Git](https://learngitbranching.js.org/?locale=fr_FR)
 - [Font](https://www.pagecloud.com/blog/how-to-add-custom-fonts-to-any-website)
 - Javascript
-- VS Code
 - auto-refresh: Live server
+
 - Server
+  - HTTP
+  - Python
+      python -m pip install flask
+      python main.py
+      Python 3.9
+      Flask: serveur web
+      Moesif CORS
+  - SQLite: base de données
+  - JSON
+      
+
 
 ## tests divers
 
