@@ -1,9 +1,26 @@
 
+
+@font-face {
+    font-family: 'ralewaythin';
+    src: url('raleway-variablefont_wght-webfont.woff2') format('woff2'),
+         url('raleway-variablefont_wght-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+#h2 { color: green;
+	font-family: 'ralewaythin';
+ }
+
 #menu {
 	width: 100%;
 	height: 100px;
 	position: relative;
 	background:-webkit-linear-gradient(black, white, black);
+}
+
+#para1 {
+	font-family: fantasy;
 }
 
 #menu ul {

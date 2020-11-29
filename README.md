@@ -6,6 +6,7 @@
 - ![HTML/CSS](https://www.htmldog.com/)
 - ![QuerySelector](https://flukeout.github.io/)
  -![Git](https://learngitbranching.js.org/?locale=fr_FR)
+- [Font](https://www.pagecloud.com/blog/how-to-add-custom-fonts-to-any-website)
 - Javascript
 - VS Code
 - auto-refresh: Live server
