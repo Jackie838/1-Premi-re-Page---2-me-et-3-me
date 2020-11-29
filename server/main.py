@@ -2,6 +2,10 @@ from flask import Flask
 
 app = Flask(__name__)
 
+@app.route('/gab')
+def gab():
+    return '{ "msg": "test maison", "id": 50 }'
+
 @app.route('/')
 def main():
     return '{ "msg": "test maison" }'
@@ -19,3 +23,5 @@ def test(number):
 
 if __name__ == '__main__':
     app.run()
+
+
